@@ -37,7 +37,7 @@ This project implements a Multiple Linear Regression model to predict house pric
 
 ## Output Visualization
 
-![Output Graph](images/output.png)
+![Output Graph]![Output Graph](output.png)
 
 ## Conclusion
 The model successfully predicts house prices using Multiple Linear Regression with good accuracy.
